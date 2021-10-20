@@ -1,0 +1,20 @@
+.body_backgorund 
+{
+    background-image:url(background.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   border-width: 9px;
+   background-color: white;
+   border-style: ridge;
+   border-color: hotpink;
+   background-image: url(canvas.webp);
+   background-size: cover;
+}
+#button
+{
+    background-color:rgb(212, 78, 123);
+}
+
